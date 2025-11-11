@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kiparis.AppHost/Kiparis.AppHost.csproj" />
+    <Project Path="src/Kiparis.ServiceDefaults/Kiparis.ServiceDefaults.csproj" />
+  </Folder>
+</Solution>
