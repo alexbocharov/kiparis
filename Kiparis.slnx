@@ -9,4 +9,7 @@
     <Project Path="src/Kiparis.AppHost/Kiparis.AppHost.csproj" />
     <Project Path="src/Kiparis.ServiceDefaults/Kiparis.ServiceDefaults.csproj" />
   </Folder>
+  <Folder Name="/src/Integrations/">
+    <Project Path="src/Integrations/Kiparis.Integration.Svod31.Reporting.Api/Kiparis.Integration.Svod31.Reporting.Api.csproj" />
+  </Folder>
 </Solution>
