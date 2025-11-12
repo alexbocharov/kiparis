@@ -1,6 +1,12 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="global.json" />
+  </Folder>
   <Folder Name="/src/">
-    <Project Path="src/Kiparis.AppHost/Kiparis.AppHost.csproj" />
-    <Project Path="src/Kiparis.ServiceDefaults/Kiparis.ServiceDefaults.csproj" />
+    <Project Path="src/Kiparis.AppHost/Kiparis.AppHost.csproj" Id="bf9ea489-742f-4c7b-a9c0-34e4d59cf3a1" />
+    <Project Path="src/Kiparis.ServiceDefaults/Kiparis.ServiceDefaults.csproj" Id="397c1cb7-5e3e-472e-a4d9-05ddbe40afea" />
   </Folder>
 </Solution>
