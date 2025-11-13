@@ -8,4 +8,8 @@
     <UserSecretsId>2a1ca3ec-89ad-44fc-9639-5cce617c269c</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Integrations\Kiparis.Integration.Svod31.Reporting.Api\Kiparis.Integration.Svod31.Reporting.Api.csproj" />
+  </ItemGroup>
+
 </Project>

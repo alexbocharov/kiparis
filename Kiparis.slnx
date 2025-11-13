@@ -1,12 +1,14 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
-    <File Path=".gitattributes" />
-    <File Path=".gitignore" />
+    <File Path="Directory.Packages.props" />
     <File Path="global.json" />
   </Folder>
   <Folder Name="/src/">
     <Project Path="src/Kiparis.AppHost/Kiparis.AppHost.csproj" />
     <Project Path="src/Kiparis.ServiceDefaults/Kiparis.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/src/Integrations/">
+    <Project Path="src/Integrations/Kiparis.Integration.Svod31.Reporting.Api/Kiparis.Integration.Svod31.Reporting.Api.csproj" />
   </Folder>
 </Solution>
